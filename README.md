@@ -3,6 +3,8 @@ This repo contains both the python code and the android studio code which integr
 
 ![Screenshot1](https://github.com/somaiahkm/handWrittenDigitRecognition/assets/125279140/95f4e491-84bc-43d3-a7d8-0e0cd508ff42)
 ![Screenshot2](https://github.com/somaiahkm/handWrittenDigitRecognition/assets/125279140/c2a56b3b-55a1-434e-b8f1-4a26a98dcf3c)
+
+
 It's a stand alone mobile application which works offline, as the entire trained model is present inside application. 
 This repo contains:
 -> Android Studio files : Design file(.xml), Activity file(.java), build.gradle.
